@@ -1,4 +1,4 @@
-"# AUDIT_CHECKLIST.md  
+
 **Título:** Lista de Verificación de Auditoría para el Proyecto ""Plataforma Descentralizada para Viajes Estudiantiles""  
 
 **Propósito:** Este documento sirve como guía para auditar el código, la seguridad y la documentación del proyecto, asegurando que cumple con los estándares de calidad de una dApp basada en Web 3.0. El objetivo es garantizar transparencia en el manejo de fondos, la correcta implementación de contratos inteligentes y la confianza de estudiantes, patrocinadores y empresas del ecosistema turístico.  
